@@ -1,4 +1,4 @@
-Name: Compilar Ball Mania APK
+name: Compilar Ball Mania APK
 on: [push]
 
 jobs:
